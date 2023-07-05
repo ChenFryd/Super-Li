@@ -4,7 +4,7 @@ The code development team:
 
 Daniel Shapira - 208895656
 Gal Levi - 315479354
-Chen Fridman - 208009845
+Chen Frydman - 208009845
 Oded Atias - 311394365
 
 Hello dear costumer,
